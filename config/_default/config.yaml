@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://wwwng.onrender.com/
 title: Eureka Demo
 
 # Uncomment when not installing with Hugo Modules
@@ -7,8 +7,8 @@ title: Eureka Demo
 theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
-paginate: 3
-copyright: >
+paginate: 10
+#copyright: >
   &copy; 2021 <a href="https://www.wangchucheng.com/">WANG Chucheng</a> and <a
   href="https://www.ruiqima.com/">MA Ruiqi</a>
 enableEmoji: true
