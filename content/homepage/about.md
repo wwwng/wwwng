@@ -18,7 +18,7 @@ social:
     iconPack: fab
     url: https://example.com/
 
-weight: 1
+weight: 99
 widget:
   handler: about
 
