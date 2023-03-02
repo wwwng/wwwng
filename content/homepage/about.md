@@ -1,6 +1,6 @@
 ---
 title: Example Author
-draft: false
+draft: true
 role: Example Role
 avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
