@@ -1,14 +1,14 @@
 ---
-title: Pages
+title: Beiträge
 draft: false
 # Section you want to display
 section: posts
 # Pages count
-count: 5
+count: 10
 # Options: card, plain and masonry.
 style: plain
 
-weight: 2
+weight: 1
 widget:
   handler: pages
 
