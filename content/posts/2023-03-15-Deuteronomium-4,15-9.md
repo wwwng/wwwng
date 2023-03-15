@@ -5,8 +5,7 @@ layout = 'post'
 categories = ['LECTIO 1']
 tags = ['LECTIO 1']
 date = '2023-03-15 07:30:05 +0100'
-summary = 'Mose sprach zum Volk: Israel, höre die Gesetze und Rechtsvorschriften, die ich euch zu halten lehre. Hört, und ihr werdet leben, ihr werdet in das Land, das der Herr, der Gott eurer Väter, euch gibt, hineinziehen und es in Besitz nehmen.
-Hiermit lehre ich euch, wie es mir der Her....'
+summary = 'Mose sprach zum Volk: Israel, höre die Gesetze und Rechtsvorschriften, die ich euch zu halten lehre. Hört, und ihr werdet leben, ihr werdet in das Land, das der Herr, der Gott eurer Väter, euch gibt, hineinziehen und es in Besitz nehmen. Hiermit lehre ich euch, wie es mir der Her....'
 +++
 Mose sprach zum Volk: Israel, höre die Gesetze und Rechtsvorschriften, die ich euch zu halten lehre. Hört, und ihr werdet leben, ihr werdet in das Land, das der Herr, der Gott eurer Väter, euch gibt, hineinziehen und es in Besitz nehmen.
 Hiermit lehre ich euch, wie es mir der Herr, mein Gott, aufgetragen hat, Gesetze und Rechtsvorschriften.<!--more--> Ihr sollt sie innerhalb des Landes halten, in das ihr hineinzieht, um es in Besitz zu nehmen.

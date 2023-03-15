@@ -5,9 +5,7 @@ layout = 'post'
 categories = ['EVANGELIUM']
 tags = ['EVANGELIUM']
 date = '2023-03-14 09:00:04 +0100'
-summary = 'In jener Zeit trat Petrus zu Jesus und fragte: Herr, wie oft muss ich meinem Bruder vergeben, wenn er sich gegen mich versündigt? Sieben Mal?
-Jesus sagte zu ihm: Nicht siebenmal, sondern siebenundsiebzigmal.
-Mit dem Himmelreich ist es deshalb wie mit einem König, der beschloss, v(....)'
+summary = 'In jener Zeit trat Petrus zu Jesus und fragte: Herr, wie oft muss ich meinem Bruder vergeben, wenn er sich gegen mich versündigt? Sieben Mal? Jesus sagte zu ihm: Nicht siebenmal, sondern siebenundsiebzigmal. Mit dem Himmelreich ist es deshalb wie mit einem König, der beschloss, v(....)'
 +++
 In jener Zeit trat Petrus zu Jesus und fragte: Herr, wie oft muss ich meinem Bruder vergeben, wenn er sich gegen mich versündigt? Sieben Mal?
 Jesus sagte zu ihm: Nicht siebenmal, sondern siebenundsiebzigmal.
