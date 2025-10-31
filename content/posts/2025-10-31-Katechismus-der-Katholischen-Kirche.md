@@ -1,0 +1,22 @@
++++
+title = 'Katechismus der Katholischen Kirche '
+layout = 'post'
+categories = ['MEDITATIO']
+tags = ['MEDITATIO']
+date = '2025-10-31 10:00:13 +0100'
+summary = 'Der Sabbat – der Abschluss der „sechs Tage“. Die Heilige Schrift sagt: „Am siebten Tag vollendete Gott das Werk, das er geschaffen hatte“ – so „wurden Himmel und Erde vollendet“ – „und er ruhte am siebten Tag … Und Gott segnete den siebten Tag und erklärte ihn für heilig“ (Gen 2,....'
+linkedsummaryImage = 'meditatio.jpg'
+keepImageRatio = 'true'
++++
+Der Sabbat – der Abschluss der „sechs Tage“. Die Heilige Schrift sagt: „Am siebten Tag vollendete Gott das Werk, das er geschaffen hatte“ – so „wurden Himmel und Erde vollendet“ – „und er ruhte am siebten Tag … Und Gott segnete den siebten Tag und erklärte ihn für heilig“ (Gen 2,1–3).<!--more--> Diese inspirierten Worte sind sehr aufschlussreich:
+
+In der Schöpfung hat Gott eine Grundlage und Gesetze gelegt, die bestehen bleiben (vgl. Hebr 4,3–4). Der Glaubende kann sich auf sie verlassen; sie sind ihm Zeichen und Gewähr der unerschütterlichen Treue, mit der Gott an seinem Bund festhält (vgl. Jer 31,35–37; 33,19–26). Der Mensch muss sich seinerseits treu an diese Grundlage halten und die Gesetze, die Gott in die Schöpfung eingeschrieben hat, achten.
+ 
+Die Schöpfung geschah im Hinblick auf den Sabbat und somit auf die Verehrung und Anbetung Gottes. Der Gottesdienst ist in die Schöpfungsordnung eingeschrieben (vgl. Gen 1,14). „Dem Gottesdienst soll nichts vorgezogen werden“, sagt die Regel des hl. Benedikt, die uns so auf die richtige Ordnung der menschlichen Anliegen hinweist.
+
+Der Sabbat bildet im Gesetz Israels die Mitte. Die Gebote halten heißt der Weisheit und dem Willen Gottes entsprechen, die in seinem Schöpfungswerk zum Ausdruck kommen.
+
+Der achte Tag 
+Für uns aber ist ein neuer Tag angebrochen: der Tag der Auferstehung Christi. Der siebte Tag vollendet die erste Schöpfung. Am achten Tag beginnt die Neuschöpfung. So gipfelt das Schöpfungswerk im noch größeren Werk der Erlösung. Die erste Schöpfung findet ihren Sinn und Höhepunkt in der Neuschöpfung in Christus, welche die erste an Glanz übertrifft (vgl. MR, Osternacht 24: Gebet nach der ersten Lesung).
+
+[Quelle: Evangelizo](https://evangeliumtagfuertag.org/DE/gospel)
