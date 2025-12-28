@@ -1,0 +1,21 @@
++++
+author = 'Gott'
+title = 'Aus dem Heiligen Evangelium nach Matthäus - Mt 2,13-15.19-23'
+layout = 'post'
+description = 'Als die Sterndeuter wieder gegangen waren, siehe, da erschien dem Josef im Traum ein Engel des Herrn und sagte: Steh auf, nimm das Kind und seine Mutter und flieh nach Ägypten; dort bleibe, bis ich dir etwas anderes auftrage; denn Herodes wird das Kind suchen, um es zu töten. Da ....'
+images = ['/symbols/evangelist_matthaeus.jpg']
+categories = ['EVANGELIUM']
+tags = ['EVANGELIUM']
+date = '2025-12-28 09:00:42 +0100'
+summary = 'Als die Sterndeuter wieder gegangen waren, siehe, da erschien dem Josef im Traum ein Engel des Herrn und sagte: Steh auf, nimm das Kind und seine Mutter und flieh nach Ägypten; dort bleibe, bis ich dir etwas anderes auftrage; denn Herodes wird das Kind suchen, um es zu töten. Da ....'
+linkedsummaryImage = 'evangelist_matthaeus.jpg'
+keepImageRatio = 'true'
++++
+Als die Sterndeuter wieder gegangen waren, siehe, da erschien dem Josef im Traum ein Engel des Herrn und sagte: Steh auf, nimm das Kind und seine Mutter und flieh nach Ägypten; dort bleibe, bis ich dir etwas anderes auftrage; denn Herodes wird das Kind suchen, um es zu töten.
+Da stand Josef auf und floh in der Nacht mit dem Kind und dessen Mutter nach Ägypten.<!--more-->
+Dort blieb er bis zum Tod des Herodes. Denn es sollte sich erfüllen, was der Herr durch den Propheten gesagt hat: Aus Ägypten habe ich meinen Sohn gerufen.
+Als Herodes gestorben war, siehe, da erschien dem Josef in Ägypten ein Engel des Herrn im Traum
+und sagte: Steh auf, nimm das Kind und seine Mutter und zieh in das Land Israel; denn die Leute, die dem Kind nach dem Leben getrachtet haben, sind tot.
+Da stand er auf und zog mit dem Kind und dessen Mutter in das Land Israel.
+Als er aber hörte, dass in Judäa Archelaus anstelle seines Vaters Herodes regierte, fürchtete er sich, dorthin zu gehen. Und weil er im Traum einen Befehl erhalten hatte, zog er in das Gebiet von Galiläa
+und ließ sich in einer Stadt namens Nazaret nieder. Denn es sollte sich erfüllen, was durch die Propheten gesagt worden ist: Er wird Nazoräer genannt werden.<br> [Quelle: Evangelizo](https://evangeliumtagfuertag.org/DE/gospel)
