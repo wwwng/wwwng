@@ -15,4 +15,4 @@ else
 fi
 
 $XDG_CACHE_HOME/hugo version # Output the NEW version
-$XDG_CACHE_HOME/hugo --gc --minify`
+$XDG_CACHE_HOME/hugo --gc --minify
