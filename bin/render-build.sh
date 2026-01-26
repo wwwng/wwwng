@@ -1,8 +1,8 @@
 hugo version # Output the OLD version
-if [[! -f $XDG_CACHE_HOME/hugo]]; then 
+if [[! -f $XDG_CACHE_HOME/hugo]]; then
   echo "...Downloading HUGO" 
   mkdir -p ~/tmp 
-  wget -P ~/tmp https://github.com/gohugoio/hugo/releases/download/v0.99.1/hugo_0.99.1_Linux-32bit.tar.gz 
+  wget -P ~/tmp https://github.com/gohugoio/hugo/releases/download/v0.154.4/hugo_0.154.5_linux-amd64.tar.gz  
   cd ~/tmp
   echo "...Extracting HUGO" 
   tar -xzvf hugo_0.99.1_Linux-32bit.tar.gz
