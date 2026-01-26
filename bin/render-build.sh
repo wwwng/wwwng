@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 hugo version # Output the OLD version
 if [[! -f $XDG_CACHE_HOME/hugo]]; then
   echo "...Downloading HUGO" 
