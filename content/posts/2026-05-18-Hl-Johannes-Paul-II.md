@@ -1,0 +1,18 @@
++++
+title = 'Hl. Johannes Paul II.  '
+layout = 'post'
+categories = ['MEDITATIO']
+tags = ['MEDITATIO']
+date = '2026-05-18 09:00:30 +0100'
+summary = 'Die Familien, die Gruppen, die Staaten, die Völkergemeinschaft selbst müssen sich der Vergebung öffnen, um unterbrochene Verbindungen wieder aufzunehmen, um Situationen einer fruchtlosen gegenseitigen Verurteilung zu überwinden, um über die Versuchung zu siegen, die anderen auszu....'
+linkedsummaryImage = 'meditatio.jpg'
+keepImageRatio = 'true'
++++
+Die Familien, die Gruppen, die Staaten, die Völkergemeinschaft selbst müssen sich der Vergebung öffnen, um unterbrochene Verbindungen wieder aufzunehmen, um Situationen einer fruchtlosen gegenseitigen Verurteilung zu überwinden, um über die Versuchung zu siegen, die anderen auszuschließen, indem man ihnen die Berufungsmöglichkeit verwehrt.<!--more--> Die Fähigkeit zur Vergebung liegt jedem Plan für eine gerechtere und solidarischere Gesellschaft in der Zukunft zugrunde.
+ 
+Umgekehrt kommt die versäumte Vergebung, besonders wenn dadurch die Fortdauer von Konflikten geschürt wird, der Entwicklung der Völker sehr teuer zu stehen. Die Ressourcen werden verwendet, um den Rüstungswettlauf, die Kriegskosten und die Folgen wirtschaftlicher Repressalien zu tragen. Damit fehlen die notwendigen Geldmittel, um Entwicklung, Frieden und Gerechtigkeit voranzubringen. Unter wie vielen Schmerzen leidet die Menschheit, weil sie sich nicht zu versöhnen weiß, wie oft wird sie zurückgeworfen, weil sie nicht zu vergeben weiß! Der Friede ist die Voraussetzung für die Entwicklung, aber ein wirklicher Friede wird nur durch die Vergebung ermöglicht.  
+ 
+Das Angebot der Vergebung ist weder unmittelbar zu verstehen, noch mühelos anzunehmen; es ist eine in gewisser Hinsicht paradoxe Botschaft. Tatsächlich schließt die Vergebung immer kurzfristig einen scheinbaren Verlust ein, während sie langfristig einen tatsächlichen Gewinn sicherstellt. Die Gewalt ist das genaue Gegenteil; sie entscheidet sich für einen kurzfristigen Gewinn, bereitet aber auf lange Sicht einen tatsächlichen, anhaltenden Verlust vor. Die Vergebung könnte als eine Schwäche erscheinen; in Wirklichkeit setzt sie, sowohl um gewährt wie um angenommen zu werden, eine große geistige Kraft und einen bewährten moralischen Mut voraus. Weit davon entfernt, die Person herabzusetzen, führt die Vergebung sie zu einem erfüllten und reicheren Menschsein, das fähig ist, in sich einen Strahl des Glanzes des Schöpfers widerzuspiegeln.
+
+
+[Quelle: Evangelizo](https://evangeliumtagfuertag.org/DE/gospel)
